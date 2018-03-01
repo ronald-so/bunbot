@@ -1,0 +1,8 @@
+{
+  "token": "Discord token here",
+  "cse_key": "CSE API key here",
+  "cse_id": "CSE API id here",
+  "terraria_ip": "Terraria server ip address",
+  "terraria_port": "Terraria server port (no quotes)",
+  "terraria_pw": "Terraria server password"
+}
